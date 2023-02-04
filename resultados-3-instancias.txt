@@ -1,0 +1,204 @@
+Start time :  Sat Feb 4 13:19:52 CET 2023 -----------------------
+test_1 starts 2023-02-04 13:19:52
+test_1 tiempo_ms 61401
+test_2 starts 2023-02-04 13:20:53
+test_2 tiempo_ms 56098
+test_3 starts 2023-02-04 13:21:49
+test_3 tiempo_ms 54930
+test_4 starts 2023-02-04 13:22:44
+test_4 tiempo_ms 57548
+test_5 starts 2023-02-04 13:23:42
+test_5 tiempo_ms 55916
+test_6 starts 2023-02-04 13:24:38
+test_6 tiempo_ms 57144
+test_7 starts 2023-02-04 13:25:35
+test_7 tiempo_ms 52918
+test_8 starts 2023-02-04 13:26:28
+test_8 tiempo_ms 54241
+test_9 starts 2023-02-04 13:27:22
+test_9 tiempo_ms 55674
+test_10 starts 2023-02-04 13:28:18
+test_10 tiempo_ms 56733
+test_11 starts 2023-02-04 13:29:14
+test_11 tiempo_ms 64742
+test_12 starts 2023-02-04 13:30:19
+test_12 tiempo_ms 59780
+test_13 starts 2023-02-04 13:31:19
+KeeperErrorCode = ConnectionLoss for /test_perf/node_042
+KeeperErrorCode = ConnectionLoss for /test_perf/node_096
+test_13 tiempo_ms 67044
+test_14 starts 2023-02-04 13:32:26
+test_14 tiempo_ms 69167
+test_15 starts 2023-02-04 13:33:35
+test_15 tiempo_ms 57514
+test_16 starts 2023-02-04 13:34:33
+test_16 tiempo_ms 56701
+test_17 starts 2023-02-04 13:35:29
+test_17 tiempo_ms 58438
+test_18 starts 2023-02-04 13:36:28
+test_18 tiempo_ms 57555
+test_19 starts 2023-02-04 13:37:25
+test_19 tiempo_ms 55262
+test_20 starts 2023-02-04 13:38:21
+test_20 tiempo_ms 57521
+test_21 starts 2023-02-04 13:39:18
+test_21 tiempo_ms 63259
+test_22 starts 2023-02-04 13:40:21
+test_22 tiempo_ms 56781
+test_23 starts 2023-02-04 13:41:18
+test_23 tiempo_ms 57323
+test_24 starts 2023-02-04 13:42:15
+test_24 tiempo_ms 57202
+test_25 starts 2023-02-04 13:43:13
+test_25 tiempo_ms 57240
+test_26 starts 2023-02-04 13:44:10
+test_26 tiempo_ms 60645
+test_27 starts 2023-02-04 13:45:11
+test_27 tiempo_ms 57537
+test_28 starts 2023-02-04 13:46:08
+test_28 tiempo_ms 52673
+test_29 starts 2023-02-04 13:47:01
+test_29 tiempo_ms 54263
+test_30 starts 2023-02-04 13:47:55
+test_30 tiempo_ms 57290
+test_31 starts 2023-02-04 13:48:52
+test_31 tiempo_ms 55152
+test_32 starts 2023-02-04 13:49:47
+test_32 tiempo_ms 59497
+test_33 starts 2023-02-04 13:50:47
+test_33 tiempo_ms 55982
+test_34 starts 2023-02-04 13:51:43
+test_34 tiempo_ms 56821
+test_35 starts 2023-02-04 13:52:40
+test_35 tiempo_ms 51417
+test_36 starts 2023-02-04 13:53:31
+test_36 tiempo_ms 54610
+test_37 starts 2023-02-04 13:54:26
+test_37 tiempo_ms 59704
+test_38 starts 2023-02-04 13:55:26
+test_38 tiempo_ms 53854
+test_39 starts 2023-02-04 13:56:19
+test_39 tiempo_ms 54060
+test_40 starts 2023-02-04 13:57:13
+test_40 tiempo_ms 54844
+test_41 starts 2023-02-04 13:58:08
+test_41 tiempo_ms 53017
+test_42 starts 2023-02-04 13:59:01
+test_42 tiempo_ms 55778
+test_43 starts 2023-02-04 13:59:57
+test_43 tiempo_ms 56204
+test_44 starts 2023-02-04 14:00:53
+test_44 tiempo_ms 55118
+test_45 starts 2023-02-04 14:01:48
+test_45 tiempo_ms 55213
+test_46 starts 2023-02-04 14:02:44
+test_46 tiempo_ms 55773
+test_47 starts 2023-02-04 14:03:39
+test_47 tiempo_ms 53762
+test_48 starts 2023-02-04 14:04:33
+test_48 tiempo_ms 102921
+test_49 starts 2023-02-04 14:06:16
+test_49 tiempo_ms 55417
+test_50 starts 2023-02-04 14:07:12
+test_50 tiempo_ms 52298
+test_51 starts 2023-02-04 14:08:04
+test_51 tiempo_ms 54631
+test_52 starts 2023-02-04 14:08:58
+test_52 tiempo_ms 55302
+test_53 starts 2023-02-04 14:09:54
+test_53 tiempo_ms 121229
+test_54 starts 2023-02-04 14:11:55
+test_54 tiempo_ms 87834
+test_55 starts 2023-02-04 14:13:23
+test_55 tiempo_ms 55762
+test_56 starts 2023-02-04 14:14:19
+test_56 tiempo_ms 65377
+test_57 starts 2023-02-04 14:15:24
+test_57 tiempo_ms 57380
+test_58 starts 2023-02-04 14:16:21
+test_58 tiempo_ms 54751
+test_59 starts 2023-02-04 14:17:16
+test_59 tiempo_ms 55614
+test_60 starts 2023-02-04 14:18:12
+test_60 tiempo_ms 53612
+test_61 starts 2023-02-04 14:19:05
+test_61 tiempo_ms 53694
+test_62 starts 2023-02-04 14:19:59
+test_62 tiempo_ms 58734
+test_63 starts 2023-02-04 14:20:58
+test_63 tiempo_ms 54722
+test_64 starts 2023-02-04 14:21:53
+test_64 tiempo_ms 55939
+test_65 starts 2023-02-04 14:22:48
+test_65 tiempo_ms 55737
+test_66 starts 2023-02-04 14:23:44
+test_66 tiempo_ms 49217
+test_67 starts 2023-02-04 14:24:33
+test_67 tiempo_ms 58072
+test_68 starts 2023-02-04 14:25:31
+test_68 tiempo_ms 53668
+test_69 starts 2023-02-04 14:26:25
+test_69 tiempo_ms 53740
+test_70 starts 2023-02-04 14:27:19
+test_70 tiempo_ms 55767
+test_71 starts 2023-02-04 14:28:15
+test_71 tiempo_ms 55947
+test_72 starts 2023-02-04 14:29:11
+test_72 tiempo_ms 52153
+test_73 starts 2023-02-04 14:30:03
+test_73 tiempo_ms 62236
+test_74 starts 2023-02-04 14:31:05
+test_74 tiempo_ms 54965
+test_75 starts 2023-02-04 14:32:00
+test_75 tiempo_ms 55164
+test_76 starts 2023-02-04 14:32:55
+test_76 tiempo_ms 54953
+test_77 starts 2023-02-04 14:33:50
+test_77 tiempo_ms 53085
+test_78 starts 2023-02-04 14:34:43
+test_78 tiempo_ms 60112
+test_79 starts 2023-02-04 14:35:43
+test_79 tiempo_ms 52691
+test_80 starts 2023-02-04 14:36:36
+test_80 tiempo_ms 55795
+test_81 starts 2023-02-04 14:37:32
+test_81 tiempo_ms 54295
+test_82 starts 2023-02-04 14:38:26
+test_82 tiempo_ms 265590
+test_83 starts 2023-02-04 14:42:52
+test_83 tiempo_ms 111983
+test_84 starts 2023-02-04 14:44:44
+test_84 tiempo_ms 80096
+test_85 starts 2023-02-04 14:46:04
+test_85 tiempo_ms 65172
+test_86 starts 2023-02-04 14:47:09
+test_86 tiempo_ms 56902
+test_87 starts 2023-02-04 14:48:06
+test_87 tiempo_ms 58239
+test_88 starts 2023-02-04 14:49:04
+test_88 tiempo_ms 57323
+test_89 starts 2023-02-04 14:50:01
+test_89 tiempo_ms 55390
+test_90 starts 2023-02-04 14:50:57
+test_90 tiempo_ms 56924
+test_91 starts 2023-02-04 14:51:54
+test_91 tiempo_ms 55113
+test_92 starts 2023-02-04 14:52:49
+test_92 tiempo_ms 57118
+test_93 starts 2023-02-04 14:53:46
+test_93 tiempo_ms 52695
+test_94 starts 2023-02-04 14:54:39
+test_94 tiempo_ms 54709
+test_95 starts 2023-02-04 14:55:33
+test_95 tiempo_ms 54623
+test_96 starts 2023-02-04 14:56:28
+test_96 tiempo_ms 56908
+test_97 starts 2023-02-04 14:57:25
+test_97 tiempo_ms 54310
+test_98 starts 2023-02-04 14:58:19
+test_98 tiempo_ms 53202
+test_99 starts 2023-02-04 14:59:12
+test_99 tiempo_ms 53284
+test_100 starts 2023-02-04 15:00:06
+test_100 tiempo_ms 55065
+end time :  Sat Feb 4 15:01:01 CET 2023 -----------------------
