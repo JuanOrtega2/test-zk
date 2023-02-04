@@ -15,4 +15,4 @@ Para ejecutar las pruebas hay que realizar los siguientes pasos :
 - Lanzar la prueba: **/tmp/test-zk/execute-test.sh**
 
 
-Finalmente para borrar los containers hay que ejecutar **docker-compose rm -f -**
+Finalmente para borrar los containers hay que ejecutar **docker-compose rm -f -s**
