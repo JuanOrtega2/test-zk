@@ -16,3 +16,14 @@ Para ejecutar las pruebas hay que realizar los siguientes pasos :
 
 
 Finalmente para borrar los containers hay que ejecutar **docker-compose rm -f -s**
+
+## Generacion de datos aleatorios
+Para los frikis del java hay un proyecto que incluye una libreria para generar datos aleatorios
+
+Para compilarlo (en el directorio gendata-java) : **mvn clean compile assembly:single**
+
+(Esto genera un fichero .jar con el codigo)
+
+Para ejecutarlo: **java -cp target/data-generator-1.0.0-dep.jar DataGenerator**
+
+(genera un fichero en el directorio local admite un par de parametros, los podeis ver con la opcion -h)
