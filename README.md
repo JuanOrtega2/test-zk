@@ -24,6 +24,6 @@ Para compilarlo (en el directorio gendata-java) : **mvn clean compile assembly:s
 
 (Esto genera un fichero .jar con el codigo)
 
-Para ejecutarlo: **java -cp target/data-generator-1.0.0-dep.jar DataGenerator **
+Para ejecutarlo: **java -cp target/data-generator-1.0.0-dep.jar DataGenerator**
 
 (genera un fichero en el directorio local admite un par de parametros, los podeis ver con la opcion -h)
