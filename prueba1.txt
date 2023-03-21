@@ -1,0 +1,205 @@
+Start time :  Mon Mar 20 10:34:09 CET 2023 -----------------------
+test_1 starts 2023-03-20 10:34:09 
+test_1 tiempo_ms 2735
+test_2 starts 2023-03-20 10:34:12 
+test_2 tiempo_ms 3352
+test_3 starts 2023-03-20 10:34:15 
+test_3 tiempo_ms 4492
+test_4 starts 2023-03-20 10:34:20 
+test_4 tiempo_ms 5517
+test_5 starts 2023-03-20 10:34:25 
+test_5 tiempo_ms 6813
+test_6 starts 2023-03-20 10:34:32 
+test_6 tiempo_ms 8245
+test_7 starts 2023-03-20 10:34:40 
+test_7 tiempo_ms 9386
+test_8 starts 2023-03-20 10:34:50 
+test_8 tiempo_ms 10028
+test_9 starts 2023-03-20 10:35:00 
+test_9 tiempo_ms 11677
+test_10 starts 2023-03-20 10:35:11 
+test_10 tiempo_ms 12748
+test_11 starts 2023-03-20 10:35:24 
+test_11 tiempo_ms 14071
+test_12 starts 2023-03-20 10:35:38 
+test_12 tiempo_ms 14755
+test_13 starts 2023-03-20 10:35:53 
+test_13 tiempo_ms 15643
+test_14 starts 2023-03-20 10:36:09 
+test_14 tiempo_ms 16281
+test_15 starts 2023-03-20 10:36:25 
+test_15 tiempo_ms 16718
+test_16 starts 2023-03-20 10:36:42 
+test_16 tiempo_ms 18192
+test_17 starts 2023-03-20 10:37:00 
+test_17 tiempo_ms 18803
+test_18 starts 2023-03-20 10:37:19 
+test_18 tiempo_ms 20646
+test_19 starts 2023-03-20 10:37:39 
+test_19 tiempo_ms 21953
+test_20 starts 2023-03-20 10:38:01 
+test_20 tiempo_ms 23825
+test_21 starts 2023-03-20 10:38:25 
+test_21 tiempo_ms 24337
+test_22 starts 2023-03-20 10:38:49 
+test_22 tiempo_ms 24975
+test_23 starts 2023-03-20 10:39:14 
+test_23 tiempo_ms 26352
+test_24 starts 2023-03-20 10:39:41 
+test_24 tiempo_ms 27111
+test_25 starts 2023-03-20 10:40:08 
+test_25 tiempo_ms 28137
+test_26 starts 2023-03-20 10:40:36 
+test_26 tiempo_ms 29116
+test_27 starts 2023-03-20 10:41:05 
+test_27 tiempo_ms 29712
+test_28 starts 2023-03-20 10:41:35 
+test_28 tiempo_ms 31106
+test_29 starts 2023-03-20 10:42:06 
+test_29 tiempo_ms 31507
+test_30 starts 2023-03-20 10:42:37 
+test_30 tiempo_ms 32793
+test_31 starts 2023-03-20 10:43:10 
+test_31 tiempo_ms 33713
+test_32 starts 2023-03-20 10:43:44 
+test_32 tiempo_ms 34326
+test_33 starts 2023-03-20 10:44:18 
+test_33 tiempo_ms 35238
+test_34 starts 2023-03-20 10:44:54 
+test_34 tiempo_ms 35996
+test_35 starts 2023-03-20 10:45:30 
+test_35 tiempo_ms 37112
+test_36 starts 2023-03-20 10:46:07 
+test_36 tiempo_ms 38310
+test_37 starts 2023-03-20 10:46:45 
+test_37 tiempo_ms 38580
+test_38 starts 2023-03-20 10:47:24 
+test_38 tiempo_ms 39312
+test_39 starts 2023-03-20 10:48:03 
+test_39 tiempo_ms 40965
+test_40 starts 2023-03-20 10:48:44 
+test_40 tiempo_ms 41094
+test_41 starts 2023-03-20 10:49:25 
+test_41 tiempo_ms 42338
+test_42 starts 2023-03-20 10:50:07 
+test_42 tiempo_ms 42324
+test_43 starts 2023-03-20 10:50:50 
+test_43 tiempo_ms 43118
+test_44 starts 2023-03-20 10:51:33 
+test_44 tiempo_ms 45329
+test_45 starts 2023-03-20 10:52:18 
+test_45 tiempo_ms 44866
+test_46 starts 2023-03-20 10:53:03 
+test_46 tiempo_ms 47239
+test_47 starts 2023-03-20 10:53:50 
+test_47 tiempo_ms 47571
+test_48 starts 2023-03-20 10:54:38 
+test_48 tiempo_ms 48241
+test_49 starts 2023-03-20 10:55:26 
+test_49 tiempo_ms 49760
+test_50 starts 2023-03-20 10:56:16 
+test_50 tiempo_ms 50086
+test_51 starts 2023-03-20 10:57:06 
+test_51 tiempo_ms 51886
+test_52 starts 2023-03-20 10:57:58 
+test_52 tiempo_ms 137901
+test_53 starts 2023-03-20 11:00:16 
+test_53 tiempo_ms 79034
+test_54 starts 2023-03-20 11:01:35 
+test_54 tiempo_ms 53596
+test_55 starts 2023-03-20 11:02:28 
+test_55 tiempo_ms 74699
+test_56 starts 2023-03-20 11:03:43 
+test_56 tiempo_ms 65300
+test_57 starts 2023-03-20 11:04:48 
+test_57 tiempo_ms 58110
+test_58 starts 2023-03-20 11:05:46 
+test_58 tiempo_ms 57254
+test_59 starts 2023-03-20 11:06:44 
+test_59 tiempo_ms 57793
+test_60 starts 2023-03-20 11:07:41 
+test_60 tiempo_ms 61691
+test_61 starts 2023-03-20 11:08:43 
+test_61 tiempo_ms 60652
+test_62 starts 2023-03-20 11:09:44 
+test_62 tiempo_ms 61643
+test_63 starts 2023-03-20 11:10:45 
+test_63 tiempo_ms 60591
+test_64 starts 2023-03-20 11:11:46 
+test_64 tiempo_ms 63139
+test_65 starts 2023-03-20 11:12:49 
+test_65 tiempo_ms 63965
+test_66 starts 2023-03-20 11:13:53 
+test_66 tiempo_ms 64590
+test_67 starts 2023-03-20 11:14:58 
+test_67 tiempo_ms 65158
+test_68 starts 2023-03-20 11:16:03 
+test_68 tiempo_ms 66647
+test_69 starts 2023-03-20 11:17:10 
+test_69 tiempo_ms 69780
+test_70 starts 2023-03-20 11:18:19 
+test_70 tiempo_ms 67370
+test_71 starts 2023-03-20 11:19:27 
+test_71 tiempo_ms 68047
+test_72 starts 2023-03-20 11:20:35 
+test_72 tiempo_ms 68186
+test_73 starts 2023-03-20 11:21:43 
+test_73 tiempo_ms 70189
+test_74 starts 2023-03-20 11:22:53 
+test_74 tiempo_ms 71327
+test_75 starts 2023-03-20 11:24:05 
+test_75 tiempo_ms 71263
+test_76 starts 2023-03-20 11:25:16 
+test_76 tiempo_ms 74134
+test_77 starts 2023-03-20 11:26:30 
+test_77 tiempo_ms 74269
+test_78 starts 2023-03-20 11:27:44 
+test_78 tiempo_ms 74249
+test_79 starts 2023-03-20 11:28:58 
+test_79 tiempo_ms 75079
+test_80 starts 2023-03-20 11:30:14 
+test_80 tiempo_ms 76013
+test_81 starts 2023-03-20 11:31:30 
+test_81 tiempo_ms 76966
+test_82 starts 2023-03-20 11:32:47 
+test_82 tiempo_ms 78208
+test_83 starts 2023-03-20 11:34:05 
+test_83 tiempo_ms 78507
+test_84 starts 2023-03-20 11:35:23 
+test_84 tiempo_ms 79444
+test_85 starts 2023-03-20 11:36:43 
+test_85 tiempo_ms 80894
+test_86 starts 2023-03-20 11:38:04 
+test_86 tiempo_ms 85837
+test_87 starts 2023-03-20 11:39:29 
+test_87 tiempo_ms 84252
+test_88 starts 2023-03-20 11:40:54 
+test_88 tiempo_ms 83747
+test_89 starts 2023-03-20 11:42:17 
+test_89 tiempo_ms 89224
+test_90 starts 2023-03-20 11:43:47 
+test_90 tiempo_ms 85817
+test_91 starts 2023-03-20 11:45:12 
+test_91 tiempo_ms 86058
+test_92 starts 2023-03-20 11:46:39 
+test_92 tiempo_ms 86050
+test_93 starts 2023-03-20 11:48:05 
+test_93 tiempo_ms 87831
+test_94 starts 2023-03-20 11:49:32 
+test_94 tiempo_ms 88986
+test_95 starts 2023-03-20 11:51:01 
+test_95 tiempo_ms 89601
+end time :  Mon Mar 20 11:52:31 CET 2023 -----------------------
+
+Start time :  Mon Mar 20 12:27:38 CET 2023 -----------------------
+test_1 starts 2023-03-20 12:27:38 
+test_1 tiempo_ms 1576
+test_2 starts 2023-03-20 12:27:40 
+test_2 tiempo_ms 6722
+test_3 starts 2023-03-20 12:27:46 
+test_3 tiempo_ms 11397
+test_4 starts 2023-03-20 12:27:58 
+test_4 tiempo_ms 21873
+test_5 starts 2023-03-20 12:28:20 
+test_5 tiempo_ms 23480
+end time :  Mon Mar 20 12:28:43 CET 2023 -----------------------

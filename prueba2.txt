@@ -1,0 +1,810 @@
+Start time :  Mon Mar 20 13:16:04 CET 2023 -----------------------
+Start time :  Mon Mar 20 13:16:04 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131457.cmd -----------------------
+test_1 starts 2023-03-20 13:16:04
+test_1 tiempo_ms 31977
+test_2 starts 2023-03-20 13:16:36
+test_2 tiempo_ms 32305
+test_3 starts 2023-03-20 13:17:09
+test_3 tiempo_ms 32399
+test_4 starts 2023-03-20 13:17:41
+test_4 tiempo_ms 73612
+test_5 starts 2023-03-20 13:18:55
+test_5 tiempo_ms 68187
+test_6 starts 2023-03-20 13:20:03
+test_6 tiempo_ms 57402
+test_7 starts 2023-03-20 13:21:00
+test_7 tiempo_ms 36895
+test_8 starts 2023-03-20 13:21:37
+test_8 tiempo_ms 32098
+test_9 starts 2023-03-20 13:22:09
+test_9 tiempo_ms 32490
+test_10 starts 2023-03-20 13:22:42
+test_10 tiempo_ms 50348
+test_11 starts 2023-03-20 13:23:32
+test_11 tiempo_ms 43963
+test_12 starts 2023-03-20 13:24:16
+test_12 tiempo_ms 38479
+test_13 starts 2023-03-20 13:24:54
+test_13 tiempo_ms 34619
+test_14 starts 2023-03-20 13:25:29
+test_14 tiempo_ms 31964
+test_15 starts 2023-03-20 13:26:01
+test_15 tiempo_ms 31524
+test_16 starts 2023-03-20 13:26:33
+test_16 tiempo_ms 30781
+test_17 starts 2023-03-20 13:27:03
+test_17 tiempo_ms 31180
+test_18 starts 2023-03-20 13:27:35
+test_18 tiempo_ms 31546
+test_19 starts 2023-03-20 13:28:06
+test_19 tiempo_ms 37037
+test_20 starts 2023-03-20 13:28:43
+test_20 tiempo_ms 31400
+test_21 starts 2023-03-20 13:29:15
+test_21 tiempo_ms 32230
+test_22 starts 2023-03-20 13:29:47
+test_22 tiempo_ms 32076
+test_23 starts 2023-03-20 13:30:19
+test_23 tiempo_ms 31667
+test_24 starts 2023-03-20 13:30:51
+test_24 tiempo_ms 30883
+test_25 starts 2023-03-20 13:31:21
+test_25 tiempo_ms 31821
+test_26 starts 2023-03-20 13:31:53
+test_26 tiempo_ms 31660
+test_27 starts 2023-03-20 13:32:25
+test_27 tiempo_ms 31787
+test_28 starts 2023-03-20 13:32:57
+test_28 tiempo_ms 32855
+test_29 starts 2023-03-20 13:33:30
+test_29 tiempo_ms 31583
+test_30 starts 2023-03-20 13:34:01
+test_30 tiempo_ms 32115
+test_31 starts 2023-03-20 13:34:33
+test_31 tiempo_ms 31923
+test_32 starts 2023-03-20 13:35:05
+test_32 tiempo_ms 32134
+test_33 starts 2023-03-20 13:35:37
+test_33 tiempo_ms 31571
+test_34 starts 2023-03-20 13:36:09
+test_34 tiempo_ms 31554
+test_35 starts 2023-03-20 13:36:41
+test_35 tiempo_ms 31471
+test_36 starts 2023-03-20 13:37:12
+test_36 tiempo_ms 31813
+test_37 starts 2023-03-20 13:37:44
+test_37 tiempo_ms 32955
+test_38 starts 2023-03-20 13:38:17
+test_38 tiempo_ms 31680
+test_39 starts 2023-03-20 13:38:48
+test_39 tiempo_ms 31877
+test_40 starts 2023-03-20 13:39:20
+test_40 tiempo_ms 31677
+test_41 starts 2023-03-20 13:39:52
+test_41 tiempo_ms 31459
+test_42 starts 2023-03-20 13:40:23
+test_42 tiempo_ms 31906
+test_43 starts 2023-03-20 13:40:55
+test_43 tiempo_ms 32030
+test_44 starts 2023-03-20 13:41:27
+test_44 tiempo_ms 31549
+test_45 starts 2023-03-20 13:41:59
+test_45 tiempo_ms 31201
+test_46 starts 2023-03-20 13:42:30
+test_46 tiempo_ms 31370
+test_47 starts 2023-03-20 13:43:02
+test_47 tiempo_ms 32125
+test_48 starts 2023-03-20 13:43:34
+test_48 tiempo_ms 31311
+test_49 starts 2023-03-20 13:44:05
+test_49 tiempo_ms 31459
+test_50 starts 2023-03-20 13:44:36
+test_50 tiempo_ms 32067
+test_51 starts 2023-03-20 13:45:09
+test_51 tiempo_ms 32318
+test_52 starts 2023-03-20 13:45:41
+test_52 tiempo_ms 31836
+test_53 starts 2023-03-20 13:46:13
+test_53 tiempo_ms 30930
+test_54 starts 2023-03-20 13:46:44
+test_54 tiempo_ms 31535
+test_55 starts 2023-03-20 13:47:15
+test_55 tiempo_ms 31809
+test_56 starts 2023-03-20 13:47:47
+test_56 tiempo_ms 31931
+test_57 starts 2023-03-20 13:48:19
+test_57 tiempo_ms 31958
+test_58 starts 2023-03-20 13:48:51
+test_58 tiempo_ms 31641
+test_59 starts 2023-03-20 13:49:23
+test_59 tiempo_ms 32203
+test_60 starts 2023-03-20 13:49:55
+test_60 tiempo_ms 32527
+test_61 starts 2023-03-20 13:50:27
+test_61 tiempo_ms 31843
+test_62 starts 2023-03-20 13:50:59
+test_62 tiempo_ms 31992
+test_63 starts 2023-03-20 13:51:31
+test_63 tiempo_ms 32241
+test_64 starts 2023-03-20 13:52:03
+test_64 tiempo_ms 32313
+test_65 starts 2023-03-20 13:52:36
+test_65 tiempo_ms 31599
+test_66 starts 2023-03-20 13:53:07
+test_66 tiempo_ms 32171
+test_67 starts 2023-03-20 13:53:39
+test_67 tiempo_ms 31098
+test_68 starts 2023-03-20 13:54:11
+test_68 tiempo_ms 31459
+test_69 starts 2023-03-20 13:54:42
+test_69 tiempo_ms 31914
+test_70 starts 2023-03-20 13:55:14
+test_70 tiempo_ms 31716
+test_71 starts 2023-03-20 13:55:46
+test_71 tiempo_ms 31689
+test_72 starts 2023-03-20 13:56:17
+test_72 tiempo_ms 31727
+test_73 starts 2023-03-20 13:56:49
+test_73 tiempo_ms 31567
+test_74 starts 2023-03-20 13:57:21
+test_74 tiempo_ms 31357
+test_75 starts 2023-03-20 13:57:52
+test_75 tiempo_ms 35463
+test_76 starts 2023-03-20 13:58:27
+test_76 tiempo_ms 32243
+test_77 starts 2023-03-20 13:59:00
+test_77 tiempo_ms 31387
+test_78 starts 2023-03-20 13:59:31
+test_78 tiempo_ms 32067
+test_79 starts 2023-03-20 14:00:03
+test_79 tiempo_ms 32249
+test_80 starts 2023-03-20 14:00:35
+test_80 tiempo_ms 31831
+test_81 starts 2023-03-20 14:01:07
+test_81 tiempo_ms 31841
+test_82 starts 2023-03-20 14:01:39
+test_82 tiempo_ms 31670
+test_83 starts 2023-03-20 14:02:11
+test_83 tiempo_ms 31941
+test_84 starts 2023-03-20 14:02:43
+test_84 tiempo_ms 33992
+test_85 starts 2023-03-20 14:03:17
+test_85 tiempo_ms 31939
+test_86 starts 2023-03-20 14:03:49
+test_86 tiempo_ms 31955
+test_87 starts 2023-03-20 14:04:21
+test_87 tiempo_ms 32147
+test_88 starts 2023-03-20 14:04:53
+test_88 tiempo_ms 32221
+test_89 starts 2023-03-20 14:05:25
+test_89 tiempo_ms 31969
+test_90 starts 2023-03-20 14:05:57
+test_90 tiempo_ms 31669
+test_91 starts 2023-03-20 14:06:29
+test_91 tiempo_ms 31836
+test_92 starts 2023-03-20 14:07:00
+test_92 tiempo_ms 32241
+test_93 starts 2023-03-20 14:07:33
+test_93 tiempo_ms 31573
+test_94 starts 2023-03-20 14:08:04
+test_94 tiempo_ms 31997
+test_95 starts 2023-03-20 14:08:36
+test_95 tiempo_ms 31413
+test_96 starts 2023-03-20 14:09:08
+test_96 tiempo_ms 31639
+test_97 starts 2023-03-20 14:09:39
+test_97 tiempo_ms 31642
+test_98 starts 2023-03-20 14:10:11
+test_98 tiempo_ms 31945
+test_99 starts 2023-03-20 14:10:43
+test_99 tiempo_ms 31823
+test_100 starts 2023-03-20 14:11:15
+test_100 tiempo_ms 31759
+end time :  Mon Mar 20 14:11:47 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131457.cmd -----------------------
+Start time :  Mon Mar 20 14:11:47 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131458.cmd -----------------------
+test_1 starts 2023-03-20 14:11:47
+test_1 tiempo_ms 40257
+test_2 starts 2023-03-20 14:12:27
+test_2 tiempo_ms 39318
+test_3 starts 2023-03-20 14:13:06
+test_3 tiempo_ms 40544
+test_4 starts 2023-03-20 14:13:47
+test_4 tiempo_ms 40510
+test_5 starts 2023-03-20 14:14:27
+test_5 tiempo_ms 39929
+test_6 starts 2023-03-20 14:15:07
+test_6 tiempo_ms 40330
+test_7 starts 2023-03-20 14:15:47
+test_7 tiempo_ms 40271
+test_8 starts 2023-03-20 14:16:28
+test_8 tiempo_ms 39316
+test_9 starts 2023-03-20 14:17:07
+test_9 tiempo_ms 39854
+test_10 starts 2023-03-20 14:17:47
+test_10 tiempo_ms 39205
+test_11 starts 2023-03-20 14:18:26
+test_11 tiempo_ms 38796
+test_12 starts 2023-03-20 14:19:05
+test_12 tiempo_ms 39755
+test_13 starts 2023-03-20 14:19:45
+test_13 tiempo_ms 39754
+test_14 starts 2023-03-20 14:20:24
+test_14 tiempo_ms 39379
+test_15 starts 2023-03-20 14:21:04
+test_15 tiempo_ms 39703
+test_16 starts 2023-03-20 14:21:44
+test_16 tiempo_ms 39913
+test_17 starts 2023-03-20 14:22:23
+test_17 tiempo_ms 40270
+test_18 starts 2023-03-20 14:23:04
+test_18 tiempo_ms 41152
+test_19 starts 2023-03-20 14:23:45
+test_19 tiempo_ms 39867
+test_20 starts 2023-03-20 14:24:25
+test_20 tiempo_ms 39840
+test_21 starts 2023-03-20 14:25:05
+test_21 tiempo_ms 39552
+test_22 starts 2023-03-20 14:25:44
+test_22 tiempo_ms 39813
+test_23 starts 2023-03-20 14:26:24
+test_23 tiempo_ms 38976
+test_24 starts 2023-03-20 14:27:03
+test_24 tiempo_ms 39253
+test_25 starts 2023-03-20 14:27:42
+test_25 tiempo_ms 86329
+test_26 starts 2023-03-20 14:29:09
+test_26 tiempo_ms 79349
+test_27 starts 2023-03-20 14:30:28
+test_27 tiempo_ms 51797
+test_28 starts 2023-03-20 14:31:20
+test_28 tiempo_ms 39877
+test_29 starts 2023-03-20 14:32:00
+test_29 tiempo_ms 39647
+test_30 starts 2023-03-20 14:32:39
+test_30 tiempo_ms 63410
+test_31 starts 2023-03-20 14:33:43
+test_31 tiempo_ms 49027
+test_32 starts 2023-03-20 14:34:32
+test_32 tiempo_ms 44119
+test_33 starts 2023-03-20 14:35:16
+test_33 tiempo_ms 39688
+test_34 starts 2023-03-20 14:35:56
+test_34 tiempo_ms 39922
+test_35 starts 2023-03-20 14:36:35
+test_35 tiempo_ms 39891
+test_36 starts 2023-03-20 14:37:15
+test_36 tiempo_ms 40401
+test_37 starts 2023-03-20 14:37:56
+test_37 tiempo_ms 46914
+test_38 starts 2023-03-20 14:38:43
+test_38 tiempo_ms 40003
+test_39 starts 2023-03-20 14:39:23
+test_39 tiempo_ms 40513
+test_40 starts 2023-03-20 14:40:03
+test_40 tiempo_ms 40269
+test_41 starts 2023-03-20 14:40:43
+test_41 tiempo_ms 40324
+test_42 starts 2023-03-20 14:41:24
+test_42 tiempo_ms 40018
+test_43 starts 2023-03-20 14:42:04
+test_43 tiempo_ms 40760
+test_44 starts 2023-03-20 14:42:45
+test_44 tiempo_ms 41123
+test_45 starts 2023-03-20 14:43:26
+test_45 tiempo_ms 40077
+test_46 starts 2023-03-20 14:44:06
+test_46 tiempo_ms 40779
+test_47 starts 2023-03-20 14:44:47
+test_47 tiempo_ms 40644
+test_48 starts 2023-03-20 14:45:27
+test_48 tiempo_ms 40234
+test_49 starts 2023-03-20 14:46:07
+test_49 tiempo_ms 40448
+test_50 starts 2023-03-20 14:46:48
+test_50 tiempo_ms 40616
+test_51 starts 2023-03-20 14:47:29
+test_51 tiempo_ms 39061
+test_52 starts 2023-03-20 14:48:08
+test_52 tiempo_ms 42339
+test_53 starts 2023-03-20 14:48:50
+test_53 tiempo_ms 39645
+test_54 starts 2023-03-20 14:49:30
+test_54 tiempo_ms 39951
+test_55 starts 2023-03-20 14:50:10
+test_55 tiempo_ms 40184
+test_56 starts 2023-03-20 14:50:50
+test_56 tiempo_ms 39572
+test_57 starts 2023-03-20 14:51:29
+test_57 tiempo_ms 40283
+test_58 starts 2023-03-20 14:52:10
+test_58 tiempo_ms 40768
+test_59 starts 2023-03-20 14:52:50
+test_59 tiempo_ms 40817
+test_60 starts 2023-03-20 14:53:31
+test_60 tiempo_ms 39956
+test_61 starts 2023-03-20 14:54:11
+test_61 tiempo_ms 39571
+test_62 starts 2023-03-20 14:54:51
+test_62 tiempo_ms 39715
+test_63 starts 2023-03-20 14:55:30
+test_63 tiempo_ms 39760
+test_64 starts 2023-03-20 14:56:10
+test_64 tiempo_ms 39916
+test_65 starts 2023-03-20 14:56:50
+test_65 tiempo_ms 39622
+test_66 starts 2023-03-20 14:57:30
+test_66 tiempo_ms 40228
+test_67 starts 2023-03-20 14:58:10
+test_67 tiempo_ms 39580
+test_68 starts 2023-03-20 14:58:50
+test_68 tiempo_ms 39788
+test_69 starts 2023-03-20 14:59:29
+test_69 tiempo_ms 39862
+test_70 starts 2023-03-20 15:00:09
+test_70 tiempo_ms 39317
+test_71 starts 2023-03-20 15:00:49
+test_71 tiempo_ms 42829
+test_72 starts 2023-03-20 15:01:31
+test_72 tiempo_ms 41829
+test_73 starts 2023-03-20 15:02:13
+test_73 tiempo_ms 39875
+test_74 starts 2023-03-20 15:02:53
+test_74 tiempo_ms 39431
+test_75 starts 2023-03-20 15:03:33
+test_75 tiempo_ms 39715
+test_76 starts 2023-03-20 15:04:12
+test_76 tiempo_ms 40016
+test_77 starts 2023-03-20 15:04:52
+test_77 tiempo_ms 39555
+test_78 starts 2023-03-20 15:05:32
+test_78 tiempo_ms 40286
+test_79 starts 2023-03-20 15:06:12
+test_79 tiempo_ms 39157
+test_80 starts 2023-03-20 15:06:51
+test_80 tiempo_ms 40138
+test_81 starts 2023-03-20 15:07:31
+test_81 tiempo_ms 42836
+test_82 starts 2023-03-20 15:08:14
+test_82 tiempo_ms 40059
+test_83 starts 2023-03-20 15:08:54
+test_83 tiempo_ms 39854
+test_84 starts 2023-03-20 15:09:34
+test_84 tiempo_ms 39701
+test_85 starts 2023-03-20 15:10:14
+test_85 tiempo_ms 39383
+test_86 starts 2023-03-20 15:10:53
+test_86 tiempo_ms 39722
+test_87 starts 2023-03-20 15:11:33
+test_87 tiempo_ms 39136
+test_88 starts 2023-03-20 15:12:12
+test_88 tiempo_ms 39769
+test_89 starts 2023-03-20 15:12:52
+test_89 tiempo_ms 42059
+test_90 starts 2023-03-20 15:13:34
+test_90 tiempo_ms 39461
+test_91 starts 2023-03-20 15:14:13
+test_91 tiempo_ms 40020
+test_92 starts 2023-03-20 15:14:53
+test_92 tiempo_ms 39891
+test_93 starts 2023-03-20 15:15:33
+test_93 tiempo_ms 39671
+test_94 starts 2023-03-20 15:16:13
+test_94 tiempo_ms 40846
+test_95 starts 2023-03-20 15:16:54
+test_95 tiempo_ms 39531
+test_96 starts 2023-03-20 15:17:33
+test_96 tiempo_ms 40086
+test_97 starts 2023-03-20 15:18:14
+test_97 tiempo_ms 39599
+test_98 starts 2023-03-20 15:18:53
+test_98 tiempo_ms 39630
+test_99 starts 2023-03-20 15:19:33
+test_99 tiempo_ms 39676
+test_100 starts 2023-03-20 15:20:12
+test_100 tiempo_ms 39595
+end time :  Mon Mar 20 15:20:52 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131458.cmd -----------------------
+Start time :  Mon Mar 20 15:20:52 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131459.cmd -----------------------
+test_1 starts 2023-03-20 15:20:52
+test_1 tiempo_ms 68381
+test_2 starts 2023-03-20 15:22:00
+test_2 tiempo_ms 67964
+test_3 starts 2023-03-20 15:23:08
+test_3 tiempo_ms 67556
+test_4 starts 2023-03-20 15:24:16
+test_4 tiempo_ms 68931
+test_5 starts 2023-03-20 15:25:25
+test_5 tiempo_ms 68310
+test_6 starts 2023-03-20 15:26:33
+test_6 tiempo_ms 68320
+test_7 starts 2023-03-20 15:27:42
+test_7 tiempo_ms 68755
+test_8 starts 2023-03-20 15:28:50
+test_8 tiempo_ms 68888
+test_9 starts 2023-03-20 15:29:59
+test_9 tiempo_ms 69603
+test_10 starts 2023-03-20 15:31:09
+test_10 tiempo_ms 68627
+test_11 starts 2023-03-20 15:32:17
+test_11 tiempo_ms 68909
+test_12 starts 2023-03-20 15:33:26
+test_12 tiempo_ms 67895
+test_13 starts 2023-03-20 15:34:34
+test_13 tiempo_ms 68988
+test_14 starts 2023-03-20 15:35:43
+test_14 tiempo_ms 68021
+test_15 starts 2023-03-20 15:36:51
+test_15 tiempo_ms 69063
+test_16 starts 2023-03-20 15:38:00
+test_16 tiempo_ms 151946
+test_17 starts 2023-03-20 15:40:32
+test_17 tiempo_ms 79046
+test_18 starts 2023-03-20 15:41:51
+test_18 tiempo_ms 67256
+test_19 starts 2023-03-20 15:42:59
+test_19 tiempo_ms 95540
+test_20 starts 2023-03-20 15:44:34
+test_20 tiempo_ms 72463
+test_21 starts 2023-03-20 15:45:47
+test_21 tiempo_ms 67390
+test_22 starts 2023-03-20 15:46:54
+test_22 tiempo_ms 67820
+test_23 starts 2023-03-20 15:48:02
+test_23 tiempo_ms 75681
+test_24 starts 2023-03-20 15:49:18
+test_24 tiempo_ms 67316
+test_25 starts 2023-03-20 15:50:25
+test_25 tiempo_ms 69607
+test_26 starts 2023-03-20 15:51:34
+test_26 tiempo_ms 67916
+test_27 starts 2023-03-20 15:52:42
+test_27 tiempo_ms 69504
+test_28 starts 2023-03-20 15:53:52
+test_28 tiempo_ms 69840
+test_29 starts 2023-03-20 15:55:02
+test_29 tiempo_ms 67486
+test_30 starts 2023-03-20 15:56:09
+test_30 tiempo_ms 69233
+test_31 starts 2023-03-20 15:57:18
+test_31 tiempo_ms 69258
+test_32 starts 2023-03-20 15:58:28
+test_32 tiempo_ms 68727
+test_33 starts 2023-03-20 15:59:36
+test_33 tiempo_ms 68274
+test_34 starts 2023-03-20 16:00:45
+test_34 tiempo_ms 66749
+test_35 starts 2023-03-20 16:01:51
+test_35 tiempo_ms 69142
+test_36 starts 2023-03-20 16:03:01
+test_36 tiempo_ms 69002
+test_37 starts 2023-03-20 16:04:10
+test_37 tiempo_ms 68963
+test_38 starts 2023-03-20 16:05:19
+test_38 tiempo_ms 70706
+test_39 starts 2023-03-20 16:06:29
+test_39 tiempo_ms 69400
+test_40 starts 2023-03-20 16:07:39
+test_40 tiempo_ms 68695
+test_41 starts 2023-03-20 16:08:47
+test_41 tiempo_ms 69684
+test_42 starts 2023-03-20 16:09:57
+test_42 tiempo_ms 70193
+test_43 starts 2023-03-20 16:11:07
+test_43 tiempo_ms 69728
+test_44 starts 2023-03-20 16:12:17
+test_44 tiempo_ms 67702
+test_45 starts 2023-03-20 16:13:25
+test_45 tiempo_ms 69284
+test_46 starts 2023-03-20 16:14:34
+test_46 tiempo_ms 69680
+test_47 starts 2023-03-20 16:15:44
+test_47 tiempo_ms 68239
+test_48 starts 2023-03-20 16:16:52
+test_48 tiempo_ms 67376
+test_49 starts 2023-03-20 16:17:59
+test_49 tiempo_ms 71209
+test_50 starts 2023-03-20 16:19:11
+test_50 tiempo_ms 69007
+test_51 starts 2023-03-20 16:20:20
+test_51 tiempo_ms 67681
+test_52 starts 2023-03-20 16:21:27
+test_52 tiempo_ms 69059
+test_53 starts 2023-03-20 16:22:36
+test_53 tiempo_ms 72228
+test_54 starts 2023-03-20 16:23:49
+test_54 tiempo_ms 67755
+test_55 starts 2023-03-20 16:24:56
+test_55 tiempo_ms 70830
+test_56 starts 2023-03-20 16:26:07
+test_56 tiempo_ms 68176
+test_57 starts 2023-03-20 16:27:15
+test_57 tiempo_ms 69321
+test_58 starts 2023-03-20 16:28:25
+test_58 tiempo_ms 65365
+test_59 starts 2023-03-20 16:29:30
+test_59 tiempo_ms 66460
+test_60 starts 2023-03-20 16:30:36
+test_60 tiempo_ms 68272
+test_61 starts 2023-03-20 16:31:45
+test_61 tiempo_ms 67752
+test_62 starts 2023-03-20 16:32:52
+test_62 tiempo_ms 69097
+test_63 starts 2023-03-20 16:34:02
+test_63 tiempo_ms 68428
+test_64 starts 2023-03-20 16:35:10
+test_64 tiempo_ms 68368
+test_65 starts 2023-03-20 16:36:18
+test_65 tiempo_ms 67828
+test_66 starts 2023-03-20 16:37:26
+test_66 tiempo_ms 69141
+test_67 starts 2023-03-20 16:38:35
+test_67 tiempo_ms 69627
+test_68 starts 2023-03-20 16:39:45
+test_68 tiempo_ms 67976
+test_69 starts 2023-03-20 16:40:53
+test_69 tiempo_ms 67704
+test_70 starts 2023-03-20 16:42:01
+test_70 tiempo_ms 68596
+test_71 starts 2023-03-20 16:43:09
+test_71 tiempo_ms 68942
+test_72 starts 2023-03-20 16:44:18
+test_72 tiempo_ms 67684
+test_73 starts 2023-03-20 16:45:26
+test_73 tiempo_ms 68213
+test_74 starts 2023-03-20 16:46:34
+test_74 tiempo_ms 67013
+test_75 starts 2023-03-20 16:47:41
+test_75 tiempo_ms 126633
+test_76 starts 2023-03-20 16:49:48
+test_76 tiempo_ms 86647
+test_77 starts 2023-03-20 16:51:14
+test_77 tiempo_ms 69837
+test_78 starts 2023-03-20 16:52:24
+test_78 tiempo_ms 89629
+test_79 starts 2023-03-20 16:53:54
+test_79 tiempo_ms 75254
+test_80 starts 2023-03-20 16:55:09
+test_80 tiempo_ms 68173
+test_81 starts 2023-03-20 16:56:17
+test_81 tiempo_ms 63285
+test_82 starts 2023-03-20 16:57:21
+test_82 tiempo_ms 78165
+test_83 starts 2023-03-20 16:58:39
+test_83 tiempo_ms 69369
+test_84 starts 2023-03-20 16:59:48
+test_84 tiempo_ms 67916
+test_85 starts 2023-03-20 17:00:56
+test_85 tiempo_ms 67682
+test_86 starts 2023-03-20 17:02:04
+test_86 tiempo_ms 68535
+test_87 starts 2023-03-20 17:03:12
+test_87 tiempo_ms 70195
+test_88 starts 2023-03-20 17:04:23
+test_88 tiempo_ms 68921
+test_89 starts 2023-03-20 17:05:31
+test_89 tiempo_ms 68407
+test_90 starts 2023-03-20 17:06:40
+test_90 tiempo_ms 68830
+test_91 starts 2023-03-20 17:07:49
+test_91 tiempo_ms 69271
+test_92 starts 2023-03-20 17:08:58
+test_92 tiempo_ms 68883
+test_93 starts 2023-03-20 17:10:07
+test_93 tiempo_ms 69357
+test_94 starts 2023-03-20 17:11:16
+test_94 tiempo_ms 69360
+test_95 starts 2023-03-20 17:12:26
+test_95 tiempo_ms 67325
+test_96 starts 2023-03-20 17:13:33
+test_96 tiempo_ms 67783
+test_97 starts 2023-03-20 17:14:41
+test_97 tiempo_ms 67716
+test_98 starts 2023-03-20 17:15:48
+test_98 tiempo_ms 69172
+test_99 starts 2023-03-20 17:16:58
+test_99 tiempo_ms 67948
+test_100 starts 2023-03-20 17:18:06
+test_100 tiempo_ms 67916
+end time :  Mon Mar 20 17:19:13 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131459.cmd -----------------------
+Start time :  Mon Mar 20 17:19:13 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131500.cmd -----------------------
+test_1 starts 2023-03-20 17:19:13
+test_1 tiempo_ms 88120
+test_2 starts 2023-03-20 17:20:42
+test_2 tiempo_ms 90845
+test_3 starts 2023-03-20 17:22:12
+test_3 tiempo_ms 90883
+test_4 starts 2023-03-20 17:23:43
+test_4 tiempo_ms 88439
+test_5 starts 2023-03-20 17:25:12
+test_5 tiempo_ms 88852
+test_6 starts 2023-03-20 17:26:41
+test_6 tiempo_ms 89617
+test_7 starts 2023-03-20 17:28:10
+test_7 tiempo_ms 93678
+test_8 starts 2023-03-20 17:29:44
+test_8 tiempo_ms 89931
+test_9 starts 2023-03-20 17:31:14
+test_9 tiempo_ms 91160
+test_10 starts 2023-03-20 17:32:45
+test_10 tiempo_ms 90689
+test_11 starts 2023-03-20 17:34:16
+test_11 tiempo_ms 89306
+test_12 starts 2023-03-20 17:35:45
+test_12 tiempo_ms 88713
+test_13 starts 2023-03-20 17:37:14
+test_13 tiempo_ms 90041
+test_14 starts 2023-03-20 17:38:44
+test_14 tiempo_ms 88120
+test_15 starts 2023-03-20 17:40:12
+test_15 tiempo_ms 88714
+test_16 starts 2023-03-20 17:41:41
+test_16 tiempo_ms 87963
+test_17 starts 2023-03-20 17:43:09
+test_17 tiempo_ms 89157
+test_18 starts 2023-03-20 17:44:38
+test_18 tiempo_ms 88673
+test_19 starts 2023-03-20 17:46:06
+test_19 tiempo_ms 89849
+test_20 starts 2023-03-20 17:47:36
+test_20 tiempo_ms 88971
+test_21 starts 2023-03-20 17:49:05
+test_21 tiempo_ms 90446
+test_22 starts 2023-03-20 17:50:36
+test_22 tiempo_ms 88689
+test_23 starts 2023-03-20 17:52:04
+test_23 tiempo_ms 90999
+test_24 starts 2023-03-20 17:53:35
+test_24 tiempo_ms 88684
+test_25 starts 2023-03-20 17:55:04
+test_25 tiempo_ms 90536
+test_26 starts 2023-03-20 17:56:35
+test_26 tiempo_ms 91462
+test_27 starts 2023-03-20 17:58:06
+test_27 tiempo_ms 160811
+test_28 starts 2023-03-20 18:00:47
+test_28 tiempo_ms 87861
+test_29 starts 2023-03-20 18:02:15
+test_29 tiempo_ms 110646
+test_30 starts 2023-03-20 18:04:05
+test_30 tiempo_ms 93716
+test_31 starts 2023-03-20 18:05:39
+test_31 tiempo_ms 90288
+test_32 starts 2023-03-20 18:07:09
+test_32 tiempo_ms 98697
+test_33 starts 2023-03-20 18:08:48
+test_33 tiempo_ms 90291
+test_34 starts 2023-03-20 18:10:18
+test_34 tiempo_ms 90485
+test_35 starts 2023-03-20 18:11:49
+test_35 tiempo_ms 90519
+test_36 starts 2023-03-20 18:13:19
+test_36 tiempo_ms 91006
+test_37 starts 2023-03-20 18:14:51
+test_37 tiempo_ms 92248
+test_38 starts 2023-03-20 18:16:23
+test_38 tiempo_ms 91381
+test_39 starts 2023-03-20 18:17:54
+test_39 tiempo_ms 92314
+test_40 starts 2023-03-20 18:19:26
+test_40 tiempo_ms 89597
+test_41 starts 2023-03-20 18:20:56
+test_41 tiempo_ms 90843
+test_42 starts 2023-03-20 18:22:27
+test_42 tiempo_ms 90899
+test_43 starts 2023-03-20 18:23:58
+test_43 tiempo_ms 92301
+test_44 starts 2023-03-20 18:25:30
+test_44 tiempo_ms 90216
+test_45 starts 2023-03-20 18:27:00
+test_45 tiempo_ms 90069
+test_46 starts 2023-03-20 18:28:30
+test_46 tiempo_ms 87079
+test_47 starts 2023-03-20 18:29:57
+test_47 tiempo_ms 87472
+test_48 starts 2023-03-20 18:31:25
+test_48 tiempo_ms 90227
+test_49 starts 2023-03-20 18:32:55
+test_49 tiempo_ms 89918
+test_50 starts 2023-03-20 18:34:25
+test_50 tiempo_ms 89902
+test_51 starts 2023-03-20 18:35:55
+test_51 tiempo_ms 89251
+test_52 starts 2023-03-20 18:37:24
+test_52 tiempo_ms 92579
+test_53 starts 2023-03-20 18:38:57
+test_53 tiempo_ms 89707
+test_54 starts 2023-03-20 18:40:27
+test_54 tiempo_ms 89154
+test_55 starts 2023-03-20 18:41:56
+test_55 tiempo_ms 90807
+test_56 starts 2023-03-20 18:43:27
+test_56 tiempo_ms 90808
+test_57 starts 2023-03-20 18:44:57
+test_57 tiempo_ms 90800
+test_58 starts 2023-03-20 18:46:28
+test_58 tiempo_ms 88870
+test_59 starts 2023-03-20 18:47:57
+test_59 tiempo_ms 88103
+test_60 starts 2023-03-20 18:49:25
+test_60 tiempo_ms 88271
+test_61 starts 2023-03-20 18:50:53
+test_61 tiempo_ms 90328
+test_62 starts 2023-03-20 18:52:24
+test_62 tiempo_ms 90117
+test_63 starts 2023-03-20 18:53:54
+test_63 tiempo_ms 88675
+test_64 starts 2023-03-20 18:55:23
+test_64 tiempo_ms 90087
+test_65 starts 2023-03-20 18:56:53
+test_65 tiempo_ms 88296
+test_66 starts 2023-03-20 18:58:21
+test_66 tiempo_ms 89547
+test_67 starts 2023-03-20 18:59:51
+test_67 tiempo_ms 87929
+test_68 starts 2023-03-20 19:01:18
+test_68 tiempo_ms 89245
+test_69 starts 2023-03-20 19:02:48
+test_69 tiempo_ms 89459
+test_70 starts 2023-03-20 19:04:17
+test_70 tiempo_ms 91298
+test_71 starts 2023-03-20 19:05:48
+test_71 tiempo_ms 90911
+test_72 starts 2023-03-20 19:07:19
+test_72 tiempo_ms 141873
+test_73 starts 2023-03-20 19:09:41
+test_73 tiempo_ms 111072
+test_74 starts 2023-03-20 19:11:32
+test_74 tiempo_ms 90441
+test_75 starts 2023-03-20 19:13:03
+test_75 tiempo_ms 115448
+test_76 starts 2023-03-20 19:14:58
+test_76 tiempo_ms 92942
+test_77 starts 2023-03-20 19:16:31
+test_77 tiempo_ms 90043
+test_78 starts 2023-03-20 19:18:01
+test_78 tiempo_ms 99364
+test_79 starts 2023-03-20 19:19:41
+test_79 tiempo_ms 88292
+test_80 starts 2023-03-20 19:21:09
+test_80 tiempo_ms 88319
+test_81 starts 2023-03-20 19:22:37
+test_81 tiempo_ms 92570
+test_82 starts 2023-03-20 19:24:10
+test_82 tiempo_ms 89931
+test_83 starts 2023-03-20 19:25:40
+test_83 tiempo_ms 89475
+test_84 starts 2023-03-20 19:27:09
+test_84 tiempo_ms 90294
+test_85 starts 2023-03-20 19:28:39
+test_85 tiempo_ms 88289
+test_86 starts 2023-03-20 19:30:08
+test_86 tiempo_ms 87577
+test_87 starts 2023-03-20 19:31:35
+test_87 tiempo_ms 88769
+test_88 starts 2023-03-20 19:33:04
+test_88 tiempo_ms 89280
+test_89 starts 2023-03-20 19:34:33
+test_89 tiempo_ms 90018
+test_90 starts 2023-03-20 19:36:03
+test_90 tiempo_ms 90338
+test_91 starts 2023-03-20 19:37:34
+test_91 tiempo_ms 91176
+test_92 starts 2023-03-20 19:39:05
+test_92 tiempo_ms 88890
+test_93 starts 2023-03-20 19:40:34
+test_93 tiempo_ms 85953
+test_94 starts 2023-03-20 19:42:00
+test_94 tiempo_ms 91974
+test_95 starts 2023-03-20 19:43:32
+test_95 tiempo_ms 91154
+test_96 starts 2023-03-20 19:45:03
+test_96 tiempo_ms 89977
+test_97 starts 2023-03-20 19:46:33
+test_97 tiempo_ms 87954
+test_98 starts 2023-03-20 19:48:01
+test_98 tiempo_ms 90988
+test_99 starts 2023-03-20 19:49:32
+test_99 tiempo_ms 88286
+test_100 starts 2023-03-20 19:51:00
+test_100 tiempo_ms 87895
+end time :  Mon Mar 20 19:52:28 CET 2023 file:  /tmp/test-zk/datos_prueba2/data_20230320_131500.cmd -----------------------
+end time :  Mon Mar 20 19:52:28 CET 2023 -----------------------

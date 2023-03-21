@@ -7,29 +7,49 @@ services:
     restart: always
     hostname: zoo1
     ports:
-      - 2181:2181
+      - 21301:2181
     environment:
       ZOO_MY_ID: 1
-      ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181
+      ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181 #server.4=zoo4:2888:3888;2181 server.5=zoo5:2888:3888;2181
     volumes:
-      - /home/felipe/test-zk:/tmp/test-zk
+      - /home/alumnos/ah13/test-zk/test-zk-new:/tmp/test-zk
 
   zoo2:
     image: zookeeper:3.7.0
     restart: always
     hostname: zoo2
     ports:
-      - 2182:2181
+      - 21302:2181
     environment:
       ZOO_MY_ID: 2
-      ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181
+      ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181 #server.4=zoo4:2888:3888;2181 server.5=zoo5:2888:3888;2181
 
   zoo3:
     image: zookeeper:3.7.0
     restart: always
     hostname: zoo3
     ports:
-      - 2183:2181
+      - 21303:2181
     environment:
       ZOO_MY_ID: 3
-      ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181
+      ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181 #server.4=zoo4:2888:3888;2181 server.5=zoo5:2888:3888;2181
+
+  # zoo4:
+  #   image: zookeeper:3.7.0
+  #   restart: always
+  #   hostname: zoo4
+  #   ports:
+  #     - 21304:2181
+  #   environment:
+  #     ZOO_MY_ID: 3
+  #     ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181 server.4=zoo4:2888:3888;2181 server.5=zoo5:2888:3888;2181
+
+  # zoo5:
+  #   image: zookeeper:3.7.0
+  #   restart: always
+  #   hostname: zoo5
+  #   ports:
+  #     - 21305:2181
+  #   environment:
+  #     ZOO_MY_ID: 3
+  #     ZOO_SERVERS: server.1=zoo1:2888:3888;2181 server.2=zoo2:2888:3888;2181 server.3=zoo3:2888:3888;2181 server.4=zoo4:2888:3888;2181 server.5=zoo5:2888:3888;2181
